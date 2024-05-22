@@ -1,0 +1,16 @@
+
+
+input, textarea, select{
+    width: 30vw;
+}
+
+.form-error{
+    color: red;
+}
+.form-success{
+    color: green;
+}
+
+.input-error{
+    box-shadow: 0 0 5px red;
+}
