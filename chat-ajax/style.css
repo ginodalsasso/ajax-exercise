@@ -9,7 +9,7 @@
 .chat-messages{
     height: 300px;
     width: 30vw;
-    overflow: scroll;
+    overflow: auto;
 }
 
 textarea{
